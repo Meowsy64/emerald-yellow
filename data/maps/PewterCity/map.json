@@ -1,9 +1,9 @@
 {
-  "id": "MAP_VIRIDIAN_CITY",
-  "name": "ViridianCity",
-  "layout": "LAYOUT_VIRIDIAN_CITY",
+  "id": "MAP_PEWTER_CITY",
+  "name": "PewterCity",
+  "layout": "LAYOUT_PEWTER_CITY",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_VIRIDIAN_CITY",
+  "region_map_section": "MAPSEC_PEWTER_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_CITY",
@@ -14,19 +14,9 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE1",
-      "offset": 10,
-      "direction": "down"
-    },
-    {
-      "map": "MAP_ROUTE22",
-      "offset": 8,
-      "direction": "left"
-    },
-    {
       "map": "MAP_ROUTE2",
       "offset": 10,
-      "direction": "up"
+      "direction": "down"
     }
   ],
   "object_events": [

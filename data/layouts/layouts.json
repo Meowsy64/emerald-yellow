@@ -4460,6 +4460,26 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route22/border.bin",
       "blockdata_filepath": "data/layouts/Route22/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE2",
+      "name": "Route2_Layout",
+      "width": 20,
+      "height": 72,
+      "primary_tileset": "gTileset_RBY_Outdoors",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route2/border.bin",
+      "blockdata_filepath": "data/layouts/Route2/map.bin"
+    },
+    {
+      "id": "LAYOUT_PEWTER_CITY",
+      "name": "PewterCity_Layout",
+      "width": 40,
+      "height": 36,
+      "primary_tileset": "gTileset_RBY_Outdoors",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/PewterCity/border.bin",
+      "blockdata_filepath": "data/layouts/PewterCity/map.bin"
     }
   ]
 }

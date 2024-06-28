@@ -597,6 +597,8 @@
 #define MAP_ROUTE1        (2 | (34 << 8))
 #define MAP_VIRIDIAN_CITY (3 | (34 << 8))
 #define MAP_ROUTE22       (4 | (34 << 8))
+#define MAP_ROUTE2        (5 | (34 << 8))
+#define MAP_PEWTER_CITY   (6 | (34 << 8))
 
 #define MAP_GROUPS_COUNT 35
 
