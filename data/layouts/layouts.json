@@ -4454,8 +4454,8 @@
     {
       "id": "LAYOUT_ROUTE22",
       "name": "Route22_Layout",
-      "width": 40,
-      "height": 18,
+      "width": 45,
+      "height": 28,
       "primary_tileset": "gTileset_RBY_Outdoors",
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route22/border.bin",

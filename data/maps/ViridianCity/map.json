@@ -3,7 +3,7 @@
   "name": "ViridianCity",
   "layout": "LAYOUT_VIRIDIAN_CITY",
   "music": "MUS_DUMMY",
-  "region_map_section": "MAPSEC_ABANDONED_SHIP",
+  "region_map_section": "MAPSEC_VIRIDIAN_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
   "map_type": "MAP_TYPE_CITY",
@@ -17,6 +17,11 @@
       "map": "MAP_ROUTE1",
       "offset": 10,
       "direction": "down"
+    },
+    {
+      "map": "MAP_ROUTE22",
+      "offset": 8,
+      "direction": "left"
     }
   ],
   "object_events": [
